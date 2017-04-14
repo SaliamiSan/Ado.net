@@ -7,8 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Ado.Net
 {
+    /// <summary>
+    /// Main class
+    /// </summary>
     class Program
     {
 
